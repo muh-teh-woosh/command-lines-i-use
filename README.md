@@ -37,7 +37,7 @@
 | [gitleaks](https://github.com/gitleaks/gitleaks)                                   
 | [s3scanner](https://github.com/sa7mon/S3Scanner)                                   
 | [semgrep](https://github.com/semgrep/semgrep)                                      
-| [eathly](https://github.com/earthly/earthly)                                       
+| [earthly](https://github.com/earthly/earthly)                                       
 | [podman](https://podman.io/)                                                       
 | [lazydocker](https://github.com/jesseduffield/lazydocker)                          
 | [skaffold](https://skaffold.dev/)                                                  
