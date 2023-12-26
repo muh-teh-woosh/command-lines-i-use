@@ -3,8 +3,7 @@
 "engineering" comes with a lot of fancy tools, that I install and forget about. Here's a list of currently installed tools I have and I wrote up some additional notes about them in their individual README file
 
 | Tool                                                                                     
-| -------------                                                                      
-| [fuck](https://github.com/nvbn/thefuck)                                             
+| -------------                                                                                                                  
 | [az](https://learn.microsoft.com/en-us/cli/azure/)                                      
 | [gcloud](https://cloud.google.com/sdk/gcloud)                                      
 | [aws](https://aws.amazon.com/cli/)                                                 
@@ -27,7 +26,7 @@
 | [stratus](https://github.com/DataDog/stratus-red-team)                             
 | [nuclei](https://docs.projectdiscovery.io/tools/nuclei/overview)                   
 | [subfinder](https://github.com/projectdiscovery/subfinder)                         
-| [msfconeole](https://github.com/rapid7/metasploit-framework)                       
+| [msfconsole](https://github.com/rapid7/metasploit-framework)                       
 | [rich](https://github.com/Textualize/rich-cli)                                     
 | [azctx](https://github.com/whiteducksoftware/azctx)                                
 | [kubectx](https://github.com/ahmetb/kubectx)                                       
