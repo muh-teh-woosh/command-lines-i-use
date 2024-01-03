@@ -42,4 +42,5 @@
 | [skaffold](https://skaffold.dev/)                                                  
 | [helm](https://helm.sh/)                                                           
 | [argocd](https://argo-cd.readthedocs.io/en/stable/)                                
-| [docker](https://docs.docker.com/)                                                 
+| [docker](https://docs.docker.com/) 
+| [nmap](https://nmap.org/book/man.html)                                                
